@@ -1,30 +1,43 @@
-# 👋 Hi, I'm Sebastian Christen
+<hr>
 
-Welcome to my GitHub profile! I'm passionate about software development, data science, and all things tech. My GitHub repositories are a collection of projects that reflect my journey as a developer, showcasing my skills, learning experiences, and the technologies I enjoy working with.
+<div align="center"> 
+<h2>👋 Hi, I'm Sebastian Christen</h2>
+<p> My name is <strong>Sebastian</strong>, and I am an <strong>application developer apprentice</strong> in the third year of an apprenticeship. My GitHub repositories are a collection of projects that reflect my journey as a developer, showcasing my skills, learning experiences, and the technologies I enjoy working with.</p>
+</div>
 
 ---
 
 ## 🔭 What I'm Working On
 
-- **[Project Name](https://github.com/SebastianChristen/Project-Name):** A brief description of what this project does and why it's important or interesting.
-- **[Another Project](https://github.com/SebastianChristen/Another-Project):** Explain the key features and technologies used in this project.
+- [Is it Friday](https://github.com/SebastianChristen/IsItFriday): Ever wanted to check if today is Friday? Check if today is Friday with this simple program!
+- [CyberMix](https://github.com/SebastianChristen/CyberMix): An Angular project, but I never finished it. Kind of a "messenger"-app
+- [ÜK 295](https://github.com/SebastianChristen/uek-295): Java Backend ÜK
+- [Okon](https://github.com/SebastianChristen/okon): A simple Website, HTML & CSS, made for a gibb module
+- [Unnamed Chat App - Frontend](https://github.com/SebastianChristen/unnamed_chat_app): Frontend for my Chat App, made in .NET MAUI
+- [Module 347 - Docker](https://github.com/SebastianChristen/M347-Dienst-mit-Container-anwenden): Docker gibb Module
+- [Rent-a-Room](https://github.com/SebastianChristen/rent-a-room): Room rental app, similar to airbnb.
+- [Free GPT 4](https://github.com/SebastianChristen/Sebu-Free-GPT4-WEB-API): Fork from another repo
+- [ÜK 294](https://github.com/SebastianChristen/UEK-294): Frontend ÜK, made with react.
+- [ESP 32](https://github.com/SebastianChristen/ESP32-programs): I love to tinker around with my ESP32 and other Microcontrollers
+- [Python FastAPI test](https://github.com/SebastianChristen/Python-API): I'm learning FastAPI
 
 ---
 
+<h2 align="center">🛠 Language and tools</h2>
+
+###
+
 ## 🌱 What I'm Learning
 
-- **Technology or Skill:** Brief description of why you're learning this and how you're applying it.
-- **Another Technology:** Mention ongoing courses, certifications, or projects that help you grow in this area.
+- **Web development:** I make a lot of websites. (check them out!)
+- **Cyber security:** I'm interested in it.
 
 ---
 
 ## 💼 My Experience
 
-- **Role at Company:** `Year-Start - Year-End`
-  - A few bullet points about your responsibilities and achievements.
-
-- **Another Role at Another Company:** `Year-Start - Year-End`
-  - A few bullet points about your responsibilities and achievements.
+- 2022 - 2026: Apprenticeship in IT
+- 2006 - 21??: Personal experince
 
 ---
 
@@ -38,7 +51,7 @@ Feel free to connect with me on:
 
 ---
 
-## 📈 GitHub Stats
+<h3 align="center">🔥   My Stats :</h3>
 
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianChristen&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianChristen&layout=compact&theme=radical)
@@ -68,4 +81,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-*Thanks for stopping by! Have a great day!* ✨
+_Thanks for stopping by! Have a great day!_ ✨
