@@ -9,17 +9,12 @@
 
 ## 🔭 What I'm Working On
 
-- [Is it Friday](https://github.com/SebastianChristen/IsItFriday): Ever wanted to check if today is Friday? Check if today is Friday with this simple program!
 - [CyberMix](https://github.com/SebastianChristen/CyberMix): An Angular project, but I never finished it. Kind of a "messenger"-app
 - [ÜK 295](https://github.com/SebastianChristen/uek-295): Java Backend ÜK
-- [Okon](https://github.com/SebastianChristen/okon): A simple Website, HTML & CSS, made for a gibb module
-- [Unnamed Chat App - Frontend](https://github.com/SebastianChristen/unnamed_chat_app): Frontend for my Chat App, made in .NET MAUI
-- [Module 347 - Docker](https://github.com/SebastianChristen/M347-Dienst-mit-Container-anwenden): Docker gibb Module
 - [Rent-a-Room](https://github.com/SebastianChristen/rent-a-room): Room rental app, similar to airbnb.
 - [Free GPT 4](https://github.com/SebastianChristen/Sebu-Free-GPT4-WEB-API): Fork from another repo
 - [ÜK 294](https://github.com/SebastianChristen/UEK-294): Frontend ÜK, made with react.
 - [ESP 32](https://github.com/SebastianChristen/ESP32-programs): I love to tinker around with my ESP32 and other Microcontrollers
-- [Python FastAPI test](https://github.com/SebastianChristen/Python-API): I'm learning FastAPI
 
 ---
 
