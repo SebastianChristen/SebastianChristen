@@ -1,9 +1,8 @@
-<hr>
-
 <div align="center"> 
-<h2>👋 Hi, I'm Sebastian Christen</h2>
-<p> My name is <strong>Sebastian</strong>, and I am an <strong>application developer apprentice</strong> in the third year of an apprenticeship. My GitHub repositories are a collection of projects that reflect my journey as a developer, showcasing my skills, learning experiences, and the technologies I enjoy working with.</p>
+<h1>Hi, I'm Sebastian Christen👋 </h1>
 </div>
+
+My name is Sebastian and I am an Application Developer apprentice in the last year of my apprenticeship. My GitHub repositories are a collection of projects that reflect my journey as a developer, showcasing my skills, learning experiences, and the technologies I enjoy working with.
 
 ---
 
